@@ -1,0 +1,8 @@
+Signal, Type, Result
+entrance_point, tvx, TVH <num>
+entrance_point, lim, limit:<num> <num>
+entrance_point, dp, DP : <num> -- <num>
+entrance_point, mr-dp, DP : Market - <num> - <num>
+entrance_point, mr-lim, DP : Market - <num> -- <num>/ DP : Market - <num> - <num> - <num>
+stop_point, Шорт
+take_profit, multiple, 1)<num>$ 2)<num>$ 3)<num>$

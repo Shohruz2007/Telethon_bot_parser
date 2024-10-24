@@ -1,0 +1,2 @@
+Group,Status,Signal_send_limit,Entrance_point_send,Stop_loss_send,Take_profit_send
+1,economy,2,True,False,False

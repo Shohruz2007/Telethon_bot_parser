@@ -1,0 +1,107 @@
+ID,Catched_time,Instrument,Sent_channel,Tendency,Leverage,Margin_type,Entrance_point,Stop_loss,Take_profit
+2039724212,2023-12-02 13:02,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,{'margin_type': 'Empty'},1.0242$, пока не ставлю!,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-02 13:30,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Empty,1.0242$, пока не ставлю!,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 08:25,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$, пока не ставлю!a,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 08:33,ARB|USDT,Bot testing channel 2,⏫Long,x50,Cross,1.0242$,поканеставлю!a,1.0344$-1.0472$-1.0806$-Open
+2039724212,2023-12-04 09:05,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$, пока не ставлю!a,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 09:06,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$, пока не ставлю!a,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 09:13,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$, пока не ставлю!a,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 09:15,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$, пока не ставлю!a,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 09:15,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$, пока не ставлю!a,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:04,ARB|USDT,Bot testing channel 2,⏫Лонг, x50 ,Cross,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:09,ARB|USDT,Bot testing channel 2,⏫Long, x50,Empty,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:11,ARB|USDT,Bot testing channel 2,⏫Long, x50,Empty,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:14,ARB|USDT,Bot testing channel 2,⏫Long, x50,Empty,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:17,ARB|USDT,Bot testing channel 2,⏫Long, x50,Empty,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:18,ARB|USDT,Bot testing channel 2,⏫Long, x50,Cross,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:21,ARB|USDT,Bot testing channel 2,⏫Лонг, x50,Cross,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 10:23,ARB|USDT,Bot testing channel 2,⏫Лонг, x50,Empty,1.0242$,25%-35%,1.0344$ - 1.0472$ - 1.0806$- Open
+2039724212,2023-12-04 17:25,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-04 17:59,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-04 18:08,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-04 18:15,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-04 19:13,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-04 19:18,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:38,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:39,DYDX|USDT,Bot testing channel 2,SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:41,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:44,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:50,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:52,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:54,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:55,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:57,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 09:59,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:00,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:04,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:05,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:05,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:07,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:09,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:09,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-05 10:14,DYDX|USDT,Bot testing channel 2,⏬SHORT, 15x ,Empty, 3.2170$, 3.410," 3.164 , 3.121 , 3.089"
+2039724212,2023-12-06 00:54,LINK,Bot testing channel 2,⏫Long,20x,margin_type : ⁉️,USDT,entrance_point :  15.35$ - 15.25$!,stop_loss :  25%-35%
+2039724212,2023-12-06 00:56,LINK/USDT,Bot testing channel 2,⏬⁉️,⁉️,⁉️,15.35$ - 15.25$!,25%-35%,"15.44$, 15.47$, 15.53$"
+2039724212,2023-12-06 01:00,LINK/USDT,Bot testing channel 2,⏫Long,10x,Empty,15.35$ - 15.25$!,25%-35%,"15.44$, 15.47$, 15.53$"
+2039724212,2023-12-06 01:15,LINK/USDT,Bot testing channel 2,⏫Long,10x,Empty,15.35$ - 15.25$!,25%-35%,"15.44$, 15.47$, 15.53$"
+2039724212,2023-12-07 13:46,LINK/USDT,Bot testing channel 2,⏫LONG,15x,Empty,15.35$ - 15.25$!,25%-35%," 15.44$, 15.47$, 15.53$"
+2039724212,2023-12-09 11:20,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-18 10:29,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-19 11:09,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-19 11:10,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-19 11:12,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-21 09:09,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-21 09:10,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-22 09:45,EOS/USDT,Bot testing channel 2,⏫LONG, 0.7613$,Empty, 0.7613$, 0.7613$, 0.7613$
+2039724212,2023-12-22 09:46,EOS/USDT,Bot testing channel 2,⏫LONG, 0.7613$,Empty, 0.7613$, 0.7613$, 0.7613$
+2039724212,2023-12-22 09:51,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"0.7690 , "
+2039724212,2023-12-22 09:52,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 , "
+2039724212,2023-12-22 09:52,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733, 0.7842
+2039724212,2023-12-22 09:59,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733, 0.7842
+2039724212,2023-12-22 10:00,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733, 0.7842
+2039724212,2023-12-22 10:03,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733, 0.7842
+2039724212,2023-12-22 10:07,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733, 0.7842
+2039724212,2023-12-22 10:21,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , "
+2039724212,2023-12-22 10:28,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 , "
+2039724212,2023-12-22 10:31,EOS/USDT,Bot testing channel 2,⏬ |, 20x ,Empty, 0.7613$, 0.733, 0.7842
+2039724212,2023-12-22 10:36,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 ,   0.7766 ,   0.7842"
+2039724212,2023-12-22 11:04,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 ,   0.7766 ,   0.7842"
+2039724212,2023-12-22 11:06,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty,✅ Открытие: 0.7613$,✅ Stop: 0.733," 0.7690 ,   0.7766 ,   0.7842"
+2039724212,2023-12-22 11:10,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733," 0.7690 ,   0.7766 ,   0.7842"
+2039724212,2023-12-22 11:11,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, Stop: 0.733  0.733," 0.7690 ,   0.7766 ,   0.7842"
+2039724212,2023-12-22 11:18,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, Stop: 0.733,✅ Тейк:
+2039724212,2023-12-22 11:23,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, Stop: 0.733,✅ Тейк:
+2039724212,2023-12-22 11:25,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, Stop: 0.733,✅ Тейк:
+2039724212,2023-12-22 11:34,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 , "
+2039724212,2023-12-22 11:35,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 , "
+2039724212,2023-12-22 11:40,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 , "
+2039724212,2023-12-22 11:55,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 , "
+2039724212,2023-12-22 11:59,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 , "
+2039724212,2023-12-22 12:00,EOS/USDT,Bot testing channel 2,⏫LONG, 20x ,Empty, 0.7613$, 0.733,"1) 0.7690 ,  2) 0.7766 ,  3) 0.7842"
+2039724212,2023-12-22 12:01,EOS/USDT,Bot testing channel 2,⏫LONG, 20x,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-22 12:02,EOS/USDT,Bot testing channel 2,⏫LONG, 20x,Empty, 0.7613$, 0.733," 0.7690 , 0.7766 , 0.7842"
+2039724212,2023-12-22 12:02,EOS/USDT,Bot testing channel 2,⏫LONG, 20x,Empty, 0.7613$, 0.733,"1) 0.7690 ,  2) 0.7766 ,  3) 0.7842"
+2039724212,2023-12-22 12:03,EOS/USDT,Bot testing channel 2,⏫LONG, 20x aa,Empty, 0.7613$, 0.733," 0.7690 ,   0.7766 ,   0.7842"
+2039724212,2023-12-23 13:10,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24 a,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 18:44,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24 a,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 18:59,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24 a,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 18:59,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24 a,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:14,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24 a,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:15,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24 a,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:16,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:17,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:19,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:20,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:22,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:24,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:34,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-23 19:35,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 07:11,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 07:44,GMX/USDT,Bot Testing channel,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:03,GMX/USDT,Bot Testing channel,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:04,GMX/USDT,Bot Testing channel,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24aa,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:04,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24aa,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:17,GMX/USDT,Bot Testing channel,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24aa,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:18,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:43,GMX/USDT,Bot testing channel 2,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24,: 48 - 48.5 - 49 - 50 - 52
+2039724212,2023-12-24 08:46,GMX/USDT,Bot Testing channel,⏫LONG,(3-5x),Empty, 42.5 - 47.5, 40.24aa,: 48 - 48.5 - 49 - 50 - 52

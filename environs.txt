@@ -1,0 +1,10 @@
+Admin_client=+998900325312
+Parse_client=+998900325312
+Shipper=+998900325312
+User_ids=1435170322:shipper/1435170322:admin_client/1435170322:parse_client
+Api_id=22743009
+Api_hash=9a799ff30ba8dba8f0be4e08930eeba6
+Bot_token=6511560669:AAGZvjVn2btQwqX5x-QWs8ixepi1KhMJgvI
+Signal_channel=2039724212
+Parse_from_folder=trading
+News_from_folder=News
